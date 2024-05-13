@@ -10,7 +10,7 @@
     "events": "^1.0.2",
     "htmlparser2": "^3.8.2",
     "moment": "^2.9.0",
-    "react-native": "^0.4.1",
+    "react-native": "^0.69.12",
     "react-native-htmlview": "^0.1.2",
     "react-native-refreshable-listview": "^1.0.0",
     "underscore": "^1.7.0",
